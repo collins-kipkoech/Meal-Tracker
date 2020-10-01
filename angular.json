@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Meal-Tracker"
+    }
+  },
+  "defaultProject": "Meal-Tracker",
+  "cli": {
+    "analytics": "3d650575-7a03-4d91-a231-7633c0a3c76c"
+  }
 }
